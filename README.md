@@ -1,3 +1,4 @@
-Mitchell Jane Zwart.
+Mitchell J. Zwart.
 Dutch developer.
-Stack: Java, PHP/Laravel, JavaScript/VueJS, Spring
+Stack: PHP/Laravel, JavaScript/VueJS, Vite
+Previous experience in Java, AngularJS, Spring
